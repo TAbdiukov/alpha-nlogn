@@ -1,4 +1,4 @@
-# Repo for COMP1531 assignment 2
+# COMP1531 assignment 2 - Big Project
 see [class diagram](https://www.lucidchart.com/invitations/accept/3f054598-b604-424b-acae-10c90fe9ebd1) for interface specifications
 
 see [user stories here](https://docs.google.com/document/d/1-xCL5TUQW7dBIzek46KquRXLuT3c2PC21-ilOKh6axc/edit?usp=sharing)
@@ -20,3 +20,8 @@ see [Report here](https://docs.google.com/document/d/1kqb2wzgOyMva34J6NQ1DzZinxC
 * Learn about [flask login plugin](https://flask-login.readthedocs.io/en/latest/)
 
 * Review each other's code on Github
+
+# Notes after the fact
+
+* This is most probably a pre-release snapshot. Unfortunately, original commits were lost.
+* Team alpha-nlogn - Bo Pang, Tim Abdiukov, Haibo Wang.
