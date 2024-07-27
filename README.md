@@ -24,5 +24,5 @@ see [Report here](https://docs.google.com/document/d/1kqb2wzgOyMva34J6NQ1DzZinxC
 # Notes after the fact
 
 * I (Tim Abdiukov) refreshed `requirements.txt`, so the code can run on Python 3.12 
-* This is most probably a pre-release snapshot. Unfortunately, original commits were lost.
+* This is most probably a pre-release snapshot. Unfortunately, the original commits were lost.
 * Team alpha-nlogn – Bo Pang, Tim Abdiukov, Haibo Wang.
