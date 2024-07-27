@@ -162,4 +162,6 @@ cython_debug/
 #.idea/
 
 # Prokect specific
-*.bin
+emsData.bin
+user.data
+
